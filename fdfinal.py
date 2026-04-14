@@ -94,3 +94,5 @@ while True:
 stop_alarm()
 cap.release()
 cv2.destroyAllWindows()
+
+# Note: 2026-04-14 - maintenance update
